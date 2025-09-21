@@ -66,7 +66,7 @@ Choropleth maps of confirmed cases by country.
 Interactive panels with confirmed cases, deaths, vaccination, and demographic insights.
 ![Portada](power_bi/dashboard1.png)
 ![Análisis General](power_bi/dashboard2.png)
-![Análisis Temporal ](power_bi/dashboard1.png)
+![Análisis Temporal ](power_bi/dashboard3.png)
 
 ## 📌 Results & Insights
 Significant differences in infection and mortality rates across countries.
