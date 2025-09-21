@@ -1,4 +1,4 @@
-# covid19_latinoamerica
+# Covid19 in Latinamerica
 
 Analysis of COVID-19 pandemic data in selected Latin American countries using **Python** and **Power BI**.  
 The project focuses on data cleaning, transformation, statistical exploration, visualization, and the creation of interactive dashboards.
