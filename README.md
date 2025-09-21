@@ -20,15 +20,12 @@ The analysis includes:
 ---
 
 ## 🗂 Repository Structure
+
 ├── code/ # Python scripts for data processing and visualization
 ├── data/ # Processed datasets
 ├── power_bi/ # Power BI dashboards and reports
 └── README.md # Project documentation
 
-yaml
-Copiar código
-
----
 
 ## ⚙️ Requirements
 To run the Python scripts, install the following libraries:
